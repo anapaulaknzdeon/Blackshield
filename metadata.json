@@ -1,0 +1,6 @@
+{
+  "name": "BlackShield Security",
+  "description": "Modern, premium and extremely professional institutional website for BlackShield Security, a top-tier cybersecurity firm utilizing next-gen AI and continuous monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
